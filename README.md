@@ -1,3 +1,6 @@
+![4](https://user-images.githubusercontent.com/115736208/221039296-508ad788-9502-4dfe-87bc-036fae8b47d2.png)
+
+
 # Fortune Cookie :fortune_cookie:
 
 ## Indice 	:loudspeaker:
@@ -57,9 +60,9 @@ XML
 
 ## Integrantes :woman:
 ***
-  *[Laura](https://github.com/lau-ont)
-  *[Mina](https://github.com/marodritech)
-  *[Ximena](https://github.com/XimenaPTM)
-  *[Ana](https://github.com/Anadalab)
+  - [Laura](https://github.com/lau-ont)
+  - [Mina](https://github.com/marodritech)
+  - [Ximena](https://github.com/XimenaPTM)
+  - [Ana](https://github.com/Anadalab)
 
 
